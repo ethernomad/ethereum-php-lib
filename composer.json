@@ -1,0 +1,14 @@
+{
+    "name": "bluedroplet/ethereum-php-lib",
+    "description": "A library for integrating PHP with Ethereum.",
+    "require": {
+        "graze/guzzle-jsonrpc": "^2.1"
+    },
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Jonathan Brown",
+            "email": "jbrown@bluedroplet.com"
+        }
+    ]
+}
