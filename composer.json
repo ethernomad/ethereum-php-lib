@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ethereum\\": "src/",
+            "Ethereum\\": "src/"
         }
     },
     "license": "Unlicense",
