@@ -9,7 +9,7 @@
         "psr-4": {
             "Ethereum\\": "src/",
         }
-    }
+    },
     "license": "Unlicense",
     "authors": [
         {
