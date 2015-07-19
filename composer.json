@@ -2,6 +2,7 @@
     "name": "bluedroplet/ethereum-php-lib",
     "description": "A library for integrating PHP with Ethereum.",
     "require": {
+        "php": ">=5.6",
         "graze/guzzle-jsonrpc": "^2.1"
     },
     "license": "Unlicense",
