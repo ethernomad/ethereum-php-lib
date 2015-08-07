@@ -17,4 +17,9 @@
             "email": "jbrown@bluedroplet.com"
         }
     ]
+    "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/drupalnomad/guzzle-jsonrpc"
+    },
 }
