@@ -19,8 +19,16 @@
     ],
     "repositories": [
         {
-          "type": "git",
-          "url": "https://github.com/drupalnomad/guzzle-jsonrpc"
+            "type": "package",
+            "package": {
+                "name": "graze/guzzle-jsonrpc",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/drupalnomad/guzzle-jsonrpc",
+                    "type": "git",
+                    "reference": "origin/master"
+                }
+            }
         }
     ]
 }
