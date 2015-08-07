@@ -3,7 +3,7 @@
     "description": "A library for integrating PHP with Ethereum.",
     "require": {
         "php": ">=5.6",
-        "graze/guzzle-jsonrpc": "^2.1"
+        "graze/guzzle-jsonrpc": "dev-master"
     },
     "autoload": {
         "psr-4": {
