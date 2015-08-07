@@ -3,7 +3,7 @@
     "description": "A library for integrating PHP with Ethereum.",
     "require": {
         "php": ">=5.6",
-        "graze/guzzle-jsonrpc": "dev-master"
+        "drupalnomad/guzzle-jsonrpc": "dev-master"
     },
     "autoload": {
         "psr-4": {
@@ -21,7 +21,7 @@
         {
             "type": "package",
             "package": {
-                "name": "graze/guzzle-jsonrpc",
+                "name": "drupalnomad/guzzle-jsonrpc",
                 "version": "dev-master",
                 "source": {
                     "url": "https://github.com/drupalnomad/guzzle-jsonrpc",
