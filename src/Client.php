@@ -7,14 +7,13 @@
 
 namespace Ethereum;
 
-use GuzzleHttp\Url;
 use Graze\GuzzleHttp\JsonRpc\Client as RpcClient;
 
 class Client {
 
   protected $id = 0;
 
-  public function __construct(Url $url) {
+  public function __construct($url) {
     $this->client = RpcClient::factory($url);
   }
 
